@@ -2,7 +2,7 @@
 html,
 body {
     text-align: center;
-    background-image: url("images/tigers.png");
+    background-image: url("../images/Tigers.png");
     color: rgb(231, 71, 178);
 }
 h1 {
