@@ -1,4 +1,4 @@
-/* Basic Styling - don't alter this part! */
+
 html,
 body {
     margin: 0;
@@ -16,33 +16,10 @@ header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: rgba(230, 19, 19, 0.877);
     text-decoration: underline;
 }
 .container {
     width: 65%;
     margin: 0 auto;
 }
-
-/* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
-    background-color: black;
-    padding: 3px;
-}
-
-.code-ninja-style {
-    color: blue;
-    background-color: lightblue;
-    padding: 3px;
-}
-
-.codys-styles {
-    background:rgb(92, 149, 235);
-}
-.my-style {
-    color: hotpink;
-    background-color: black;
-    padding: 3px;
-}
-
